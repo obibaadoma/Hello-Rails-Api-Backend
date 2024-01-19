@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-    <h1><b>Hello Rails API | Back-end</b></h1>
+    <h1><b>Hello-Rails-Backend-Api</b></h1>
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 Hello Rails API | Back-end ](#-hello-rails-api--back-end-)
       - [Learning objectives](#learning-objectives)
   - [🛠 Built With ](#-built-with-)
@@ -35,7 +35,7 @@
 
 # 📖 Hello Rails API | Back-end <a name="about-project"></a>
 
-> Hello Rails API is a project that aims to connect a Ruby on Rails back-end with a [React front-end](https://github.com/ITurres/hello-react-front-end/tree/project-setup-and-front).
+> Hello Rails API is a project that aims to connect a Ruby on Rails back-end with a [React front-end](https://github.com/obibaadoma/Hello-React-FrontEnd).
 
 #### Learning objectives
 
@@ -98,21 +98,21 @@ Example commands:
 
 ```bash
   cd my-folder
-  git clone git@github.com:ITurres/hello_rails_back_end.git
+  git clone git@github.com:obibaadoma/Hello-Rails-Api-Backend.git
 ```
 
 - With HTTPS:
 
 ```bash
   cd my-folder
-  git clone https://github.com/ITurres/hello_rails_back_end.git
+  git clone git@github.com:obibaadoma/Hello-Rails-Api-Backend.git
 ```
 
 - With GitHub CLI:
 
 ```bash
   cd my-folder
-  gh repo clone ITurres/hello_rails_back_end
+  gh repo clone obibaadoma/Hello-Rails-Api-Backend
 ```
 
 ### Install <a name="install"></a>
@@ -120,7 +120,7 @@ Example commands:
 Go to the project directory:
 
 ```bash
- cd hello_rails_back_end
+ cd hello-rails-back_end
 ```
 
 Before running the program, verify that you have Ruby on Rails installed on your OS by running the following command:
@@ -183,11 +183,8 @@ To execute the tests, run the following command inside the project folder (root)
 
 👤 **Arthur Iturres**
 
-- GitHub: [@ITurres](https://github.com/ITurres)
-- LinkedIn: [Arthur Emanuel G. Iturres](https://www.linkedin.com/in/arturoemanuelguerraiturres/)
-- Angellist / Wellfound: [Arturo (Arthur) Emanuel Guerra Iturres](https://wellfound.com/u/arturo-arthur-emanuel-guerra-iturres)
-- Youtube: [Arturo Emanuel Guerra Iturres - Youtube Channel](https://www.youtube.com/channel/UC6GFUFHOtBS9mOuI8EJ6q4g)
-- Portfolio: [Arthur Iturres - Portfolio](https://iturres.github.io/iturres-reactive-portfolio/)
+- GitHub: [@ITurres](https://github.com/obibaadoma)
+- LinkedIn: [Arthur Emanuel G. Iturres](https://www.linkedin.com/derek-akrasi-konadu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,7 +206,7 @@ To execute the tests, run the following command inside the project folder (root)
 
 Contributions, issues, and feature requests are welcome!
 
-Kindly open any new issues or feature requests on the [repo's issues page](https://github.com/ITurres/hello_rails_back_end/issues).
+Kindly open any new issues or feature requests on the [repo's issues page](https://github.com/obibaadoma/hello-rails-backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

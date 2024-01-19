@@ -35,7 +35,7 @@
 
 # 📖 Hello Rails API | Back-end <a name="about-project"></a>
 
-> Hello Rails API is a project that aims to connect a Ruby on Rails back-end with a [React front-end](https://github.com/obibaadoma/Hello-React-FrontEnd).
+> Hello Rails API is a project that aims to connect a Ruby on Rails back-end with a [React front-end](https://github.com/obibaadoma/Hello-React-FrontEnd/tree/Front-End-Setup).
 
 #### Learning objectives
 
